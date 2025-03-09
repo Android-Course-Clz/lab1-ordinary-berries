@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <!-- Profile strings -->
+    <string name="profile_name_placeholder">Profile name</string>
+    <string name="profile_username_placeholder">"@username"</string>
+
+    <string name="profile_subscribers_count_placeholder">0</string>
+    <string name="profile_subscribers_text">Subscribers</string>
+
+    <string name="profile_subscriptions_count_placeholder">0</string>
+    <string name="profile_subscriptions_text">Subscriptions</string>
+
+    <string name="profile_posts_count_placeholder">0</string>
+    <string name="profile_posts_text">Posts</string>
+
+    <string name="profile_subscribe_text">Subscribe</string>
+    <string name="profile_direct_message_text">Message</string>
+
+    <!-- Post string -->
+    <string name="post_profile_name">Elon Musk</string>
+    <string name="post_created_at_placeholder">Jan 01, 2022</string>
+    <string name="post_body_placeholder">"Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing elit."</string>
+
+    <string name="post_likes_count_placeholder">0</string>
+    <string name="post_likes_text">Likes</string>
+
+    <string name="post_comments_count_placeholder">0</string>
+    <string name="post_comments_text">Comments</string>
+
+    <!-- General -->
+    <string name="empty_string">""</string>
+
+</resources>
